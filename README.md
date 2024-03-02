@@ -7,9 +7,9 @@ This assignment involves developing a responsive e-commerce website using React.
 
 1. **Clone the Repository:**
 \
-`git clone <repository-url>`
+`git clone "https://github.com/Smitkhobragade/quickcafe-products-page.git"`
 \
-`cd <repository-directory>`
+`cd quickcafe-products-page`
 
 
 2. **Install Dependencies:**
