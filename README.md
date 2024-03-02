@@ -25,6 +25,10 @@ This assignment involves developing a responsive e-commerce website using React.
 4. **Access the Website:**
 Open your web browser and go to `http://localhost:3000` to view the website.
 
+5. **Build the Website.**
+\
+`npm run build`
+
 ## Project Structure:
 
 - **components/:** Contains all React components used in the project.
